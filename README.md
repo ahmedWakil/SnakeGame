@@ -12,4 +12,4 @@ Alternatively you can also give a path to the file as well
 ```
 java -jar <Path to directory>/Snake.jar
 ```
- You must have working installation of java for this to work properly.
+You must have a working installation of java for this to work properly.
